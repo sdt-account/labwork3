@@ -9,4 +9,5 @@ int main()
    cin >> a >> b;
    cout << '\n' << a + b;
    cout << '\n' << a - b;
+   cout << '\n' << a * b;
 }
