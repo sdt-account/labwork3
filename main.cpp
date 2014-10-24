@@ -1,6 +1,7 @@
 
 #include "sdt.h"
 
+//This software is created for education purposes
 int main()
 {
    int a, b;
