@@ -1,3 +1,4 @@
+
 #include "sdt.h"
 
 int main()
@@ -6,4 +7,5 @@ int main()
    cout << "Input a and b: ";
    cin >> a >> b;
    cout << '\n' << a + b;
+   cout << '\n' << a - b;
 }
